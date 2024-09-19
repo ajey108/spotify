@@ -1,4 +1,4 @@
-## 🎵 Spotify Clone
+# 🎵 Spotify Clone
 # This project is a Spotify-inspired music player where users can select songs, play or pause them, switch between tracks, and select songs from a playlist. The app is built using React for the front-end, Tailwind CSS for styling, and Axios for handling API requests.
 
 #🚀 Features
@@ -8,7 +8,7 @@ Next/Previous Track: Seamlessly switch between the next and previous songs in th
 Responsive Design: The UI is built with Tailwind CSS to ensure responsiveness across all device sizes.
 # 🛠️ Tech Stack
 React: Front-end JavaScript library used to build the UI.
-Axios: For fetching song data from an API or backend service.
+
 Tailwind CSS: Utility-first CSS framework for styling the app.
 JavaScript: Core language for building functionality.
 HTML/CSS: Basic structure and layout.
