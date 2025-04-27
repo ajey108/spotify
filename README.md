@@ -17,7 +17,7 @@ HTML/CSS: Basic structure and layout.
 Clone the repository
 
 ```
-git clone https://github.com/your-username/spotify-clone.git
+git clone https://github.com/ajey108/spotify-clone.git
 cd spotify-clone
 ```
 
